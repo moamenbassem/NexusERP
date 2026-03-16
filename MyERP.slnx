@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MyERP.API/MyERP.API.csproj" />
+  <Project Path="MyERP.Application/MyERP.Application.csproj" />
+  <Project Path="MyERP.Domain/MyERP.Domain.csproj" />
+  <Project Path="MyERP.Infrastructure/MyERP.Infrastructure.csproj" />
+</Solution>
